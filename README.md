@@ -1,4 +1,6 @@
 # Portfolio
+Здесь собраны некоторые реализованные проекты
+
 <table>
 <tr><th>#</th><th>Наименование проекта</th><th>Описание</th><th>Стек</th></tr>
 <tr><th>1</th><th><a href="https://github.com/Sultan1448/My-Projects/blob/main/Service%20Taxi/Project%20%E2%84%9612.ipynb">Прогноз количества заказов для сервиса такси</th><th>Прогноз количества заказов в аэропортах
