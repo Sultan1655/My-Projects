@@ -7,7 +7,7 @@
 * **Python**
 * **Pandas**
 * **Numpy**
-* * **Matplotlib**
+* **Matplotlib**
 
 * statsmodels.tsa.seasonal.**seasonal_decompose**
 * sklearn.model_selection.**TimeSeriesSplit**
