@@ -4,6 +4,7 @@
 Обучите модель классифицировать комментарии на позитивные и негативные.
 
 Для выполнения проекта применять BERT необязательно, но можно попробовать.
+
 # План работ
 1. Загрузите и подготовьте данные.
  * 1.2. Лемматизируем и очистим текст.
@@ -14,8 +15,6 @@
 * python
 * pandas
 * numpy
-nltk.stem.WordNetLemmatizer
-sklearn.feature_extraction.text.TfidfVectorizer
-sklearn.linear_model.LogisticRegression
-sklearn.ensemble.RandomForestClassifier
-catboost.CatBoostClassifier
+* sklearn.linear_model.LogisticRegression
+* sklearn.ensemble.RandomForestClassifier
+* catboost.CatBoostClassifier
